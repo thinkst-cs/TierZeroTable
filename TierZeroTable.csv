@@ -1,5 +1,5 @@
-Name;Type;IdP;Identification;Description;Known Tier Zero compromise abuse;Is Tier Zero;Reasoning;Microsoft: Privileged access security roles;AdminSDHolder protected;External links;Account Operators;DC group;Active Directory;SID: S-1-5-32-548;
-"The Account Operators group grants limited account creation privileges to a user. Members of this group can create and modify most types of accounts, including accounts for users, Local groups, and Global groups. Group members can log in locally to domain controllers.
+Name;Type;IdP;Identification;Description;Known Tier Zero compromise abuse;Is Tier Zero;Reasoning;Microsoft: Privileged access security roles;AdminSDHolder protected;External links;
+Account Operators;DC group;Active Directory;SID: S-1-5-32-548;"The Account Operators group grants limited account creation privileges to a user. Members of this group can create and modify most types of accounts, including accounts for users, Local groups, and Global groups. Group members can log in locally to domain controllers.
 
 Members of the Account Operators group can't manage the Administrator user account, the user accounts of administrators, or the Administrators, Server Operators, Account Operators, Backup Operators, or Print Operators groups. Members of this group can't modify user rights.
 
